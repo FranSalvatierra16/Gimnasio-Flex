@@ -1,0 +1,27 @@
+body{
+    background-image: url(img/fondogimnasio.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.titlee{
+
+    font-style: italic;
+    font-size: 150px;
+    margin-left: 15%;
+    color: white;
+}
+ .imaginando{
+    margin-top: 50px;
+    width: 90%;
+    
+ }
+ @media screen and (max-width: 780px){
+
+    .titlee{
+        font-size: 80px;
+        font-style: italic;
+ 
+    margin-left: 15%;
+    color: white;
+    }
+ }
